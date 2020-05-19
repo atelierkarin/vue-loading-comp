@@ -1,0 +1,26 @@
+{
+  "name": "vue-loading-comp",
+  "description": "A simple Vue Loading Components",
+  "version": "2.1.0",
+  "author": "KarinP",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build:npm": "vue-cli-service build --target lib --name vueLoadingComp src/components/VueLoading.vue"
+  },
+  "main": "dist/vueLoadingComp.umd.js",
+  "unpkg": "dist/vueLoadingComp.umd.min.js",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.3.1",
+    "@vue/cli-service": "^4.3.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
