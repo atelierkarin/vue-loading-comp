@@ -1,6 +1,6 @@
 # Vue Loading Component
 
-> A simple Vue Loading Component
+> A simple loading component for VueJS, you can check [Angular version](https://github.com/atelierkarin/ngx-simple-loading)
 
 Simple Demo: [Demo](https://codesandbox.io/s/flamboyant-einstein-lx82s?file=/src/App.vue)
 
