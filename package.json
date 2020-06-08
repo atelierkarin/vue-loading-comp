@@ -1,7 +1,7 @@
 {
   "name": "vue-loading-comp",
   "description": "A simple Vue Loading Components",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "KarinP",
   "license": "MIT",
   "private": false,
@@ -19,8 +19,13 @@
     "dist"
   ],
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.3.1",
-    "@vue/cli-service": "^4.3.1",
+    "@vue/cli-plugin-babel": "^4.4.1",
+    "@vue/cli-service": "^4.4.1",
     "vue-template-compiler": "^2.6.11"
+  },
+  "homepage": "https://github.com/atelierkarin/vue-loading-comp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atelierkarin/vue-loading-comp"
   }
 }
